@@ -1,4 +1,4 @@
-Microct image analysis in python
+Microct Image Analysis in Python
 ================================
 
 This resource will help provide guidance on analysing microct (projects?) after reconstruction. The tutorials are designed to be run on [Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/) After following the [[Preparation]](https://github.com/CameraIA/microct_skimage/blob/master/preparation.md) steps you can open the project on the Binder link below and begin the first tutorial.  These lessons are part of [CAMERA](camera.lbl.gov)  commitment to open science. Use, modify, contribute and please reference our work so we can continue providing you with more and improved lessons. 
