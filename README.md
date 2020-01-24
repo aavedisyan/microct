@@ -1,7 +1,7 @@
 Microct image analysis in python
 ================================
 
-Lots of what you need to know as soon as you acquire and reconstruct your microct. These lessons are part of [CAMERA](camera.lbl.gov)  commitment to open science. Use, modify, contribute and please reference our work so we can continue providing you with more and improved lessons. 
+This is a resource to help provide guidance on manipulating your microct after reconstruction. The tutorials are designed to be run on Jupyter, if you are unfamiliar with it you can acesess [documentation} (https://jupyter-notebook.readthedocs.io/en/stable/) These lessons are part of [CAMERA](camera.lbl.gov)  commitment to open science. Use, modify, contribute and please reference our work so we can continue providing you with more and improved lessons. 
 
 CAMERA Tomography [Workshop 2019](http://microct.lbl.gov/cameratomo2019)
 --------------------------------------------------------------------------
