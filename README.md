@@ -13,7 +13,7 @@ Open it on Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybi
 CAMERA Tomography [Workshop 2019](http://microct.lbl.gov/cameratomo2019)
 --------------------------------------------------------------------------
 
-Check these tutorials on Thu, **Nov 7th Building 15, Room 253**
+Check these past tutorials which took place, **Nov 7th Building 15, Room 253**
 
 -	13:30h Alexandre de Siqueira, Image processing using scikit-image [(part I)](https://github.com/CameraIA/microct_skimage/tree/master/partI)
 
